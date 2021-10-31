@@ -51,6 +51,11 @@ npm start
 2. faucet usage @ https://faucet.ropsten.be/
 ```
 
+6. Deployment
+```
+using IPFS or Fleek network
+```
+
 Reference:
 
 ```
