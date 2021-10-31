@@ -53,7 +53,7 @@ npm start
 
 6. Deployment
 ```
-using IPFS or Fleek network
+using IPFS or ICP network
 ```
 
 Reference:
