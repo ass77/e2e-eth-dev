@@ -45,6 +45,12 @@ test production (ropsten): npx hardhat run script/deploy.js --network ropsten
 npm start
 ```
 
+5. Test production (ropsten)
+```
+1. create new infura project @ https://infura.io/
+2. faucet usage @ https://faucet.ropsten.be/
+```
+
 Reference:
 
 ```
